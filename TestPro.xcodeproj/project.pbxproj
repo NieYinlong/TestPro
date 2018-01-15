@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0320A736200C59D100CD7771 /* NieyinlongView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0320A735200C59D100CD7771 /* NieyinlongView.m */; };
 		0320A73B200C5B7700CD7771 /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0320A73A200C5B7700CD7771 /* MineViewController.m */; };
+		0320A73E200C795F00CD7771 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0320A73D200C795F00CD7771 /* TestViewController.m */; };
 		037BADB0200C4CE6002FAFE3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADAF200C4CE6002FAFE3 /* main.m */; };
 		037BADB3200C4CE6002FAFE3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADB2200C4CE6002FAFE3 /* AppDelegate.m */; };
 		037BADB6200C4CE6002FAFE3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADB5200C4CE6002FAFE3 /* ViewController.m */; };
@@ -42,6 +43,8 @@
 		0320A735200C59D100CD7771 /* NieyinlongView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NieyinlongView.m; sourceTree = "<group>"; };
 		0320A739200C5B7700CD7771 /* MineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MineViewController.h; sourceTree = "<group>"; };
 		0320A73A200C5B7700CD7771 /* MineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MineViewController.m; sourceTree = "<group>"; };
+		0320A73C200C795F00CD7771 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		0320A73D200C795F00CD7771 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		037BADAB200C4CE6002FAFE3 /* TestPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		037BADAF200C4CE6002FAFE3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		037BADB1200C4CE6002FAFE3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -92,6 +95,8 @@
 			children = (
 				0320A739200C5B7700CD7771 /* MineViewController.h */,
 				0320A73A200C5B7700CD7771 /* MineViewController.m */,
+				0320A73C200C795F00CD7771 /* TestViewController.h */,
+				0320A73D200C795F00CD7771 /* TestViewController.m */,
 			);
 			path = Mine;
 			sourceTree = "<group>";
@@ -298,6 +303,7 @@
 			files = (
 				037BADE3200C4D77002FAFE3 /* AddView.m in Sources */,
 				037BADB6200C4CE6002FAFE3 /* ViewController.m in Sources */,
+				0320A73E200C795F00CD7771 /* TestViewController.m in Sources */,
 				0320A736200C59D100CD7771 /* NieyinlongView.m in Sources */,
 				0320A73B200C5B7700CD7771 /* MineViewController.m in Sources */,
 				037BADB3200C4CE6002FAFE3 /* AppDelegate.m in Sources */,
