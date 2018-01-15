@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0320A736200C59D100CD7771 /* NieyinlongView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0320A735200C59D100CD7771 /* NieyinlongView.m */; };
 		037BADB0200C4CE6002FAFE3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADAF200C4CE6002FAFE3 /* main.m */; };
 		037BADB3200C4CE6002FAFE3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADB2200C4CE6002FAFE3 /* AppDelegate.m */; };
 		037BADB6200C4CE6002FAFE3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 037BADB5200C4CE6002FAFE3 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0320A734200C59D100CD7771 /* NieyinlongView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NieyinlongView.h; sourceTree = "<group>"; };
+		0320A735200C59D100CD7771 /* NieyinlongView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NieyinlongView.m; sourceTree = "<group>"; };
 		037BADAB200C4CE6002FAFE3 /* TestPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		037BADAF200C4CE6002FAFE3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		037BADB1200C4CE6002FAFE3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				037BADB5200C4CE6002FAFE3 /* ViewController.m */,
 				037BADE1200C4D77002FAFE3 /* AddView.h */,
 				037BADE2200C4D77002FAFE3 /* AddView.m */,
+				0320A734200C59D100CD7771 /* NieyinlongView.h */,
+				0320A735200C59D100CD7771 /* NieyinlongView.m */,
 				037BADB7200C4CE6002FAFE3 /* Main.storyboard */,
 				037BADBA200C4CE6002FAFE3 /* Assets.xcassets */,
 				037BADBC200C4CE6002FAFE3 /* LaunchScreen.storyboard */,
@@ -280,6 +285,7 @@
 			files = (
 				037BADE3200C4D77002FAFE3 /* AddView.m in Sources */,
 				037BADB6200C4CE6002FAFE3 /* ViewController.m in Sources */,
+				0320A736200C59D100CD7771 /* NieyinlongView.m in Sources */,
 				037BADB3200C4CE6002FAFE3 /* AppDelegate.m in Sources */,
 				037BADB0200C4CE6002FAFE3 /* main.m in Sources */,
 			);
